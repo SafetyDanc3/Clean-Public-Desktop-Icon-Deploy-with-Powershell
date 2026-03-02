@@ -1,4 +1,5 @@
 #Make sure you have PSTOOLS properly downloaded and you connected it to Powershell. Once complete, run this to connect to AD
+#Run PowerShell as administrator and begin
 ﻿Import-Module ActiveDirectory
 
 # OU containing the computers
@@ -54,3 +55,4 @@ foreach ($Computer in $Computers) {
 
     Write-Host ""
 }
+
