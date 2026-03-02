@@ -3,6 +3,7 @@
 A PowerShell automation script that remotely manages and deploys desktop shortcuts to devices within a specified Active Directory Organizational Unit (OU) — without using WinRM.
 
 This script is designed to supplement base system images that may be missing required shortcuts or desktop components.
+Feel free to use this if needed in your own enviorment.
 
 ---
 
